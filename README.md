@@ -11,4 +11,8 @@ In today's fast-paced healthcare landscape, accessibility and timely information
 ●	Run chatbot.py
 
 ## Output
-![chatbot_output](https://github.com/saadmdsabah/Healthcare-Chatbot/assets/103499208/dcd687bb-359a-4533-8bac-0256d36acede)
+![chatbot_output](https://github.com/saadmdsabah/Healthcare-Chatbot/assets/103499208/c1886cf9-9a7b-4851-85cc-c92df2f6c41a)
+
+## Web Integration
+### The chatbot can also be integrated into the web using Flask, HTML, JS and CSS
+![chatbot](https://github.com/saadmdsabah/Healthcare-Chatbot/assets/103499208/61d1b7be-ea53-465f-9393-906bd72bdebe)
