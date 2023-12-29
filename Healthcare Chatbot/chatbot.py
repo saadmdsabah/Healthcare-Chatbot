@@ -10,6 +10,8 @@ english_bot = ChatBot('Bot',
 english_bot.set_trainer(ListTrainer)
 english_bot.initialize
 
+print("Bot : Hi There! What is your name?")
+
 while(True):
     userText = input("user : ")
     response = str(english_bot.get_response(userText))
