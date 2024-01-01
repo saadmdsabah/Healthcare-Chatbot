@@ -15,3 +15,5 @@ In today's fast-paced healthcare landscape, accessibility and timely information
 
 ## Web Integration
 ### The chatbot can also be integrated into the web using Flask, HTML, JS and CSS refer to the [link](https://github.com/saadmdsabah/Skin-Cancer-Detection)
+
+![image](https://github.com/saadmdsabah/Skin-Cancer-Detection/assets/103499208/50ba38cb-1636-4464-8bbe-d2522425f0e0)
