@@ -6,7 +6,11 @@ In today's fast-paced healthcare landscape, accessibility and timely information
 ## Disclaimer:  
 This chatbot is intended for informational purposes only and is not a substitute for professional medical advice, diagnosis, or treatment. Consult a qualified healthcare provider for personalized medical guidance and assistance with any health concerns or conditions.
 
-## Run the application
+## Run the application Locally
+```
+pip -r install requirements.txt
+```
+
 ●	Run pip install requirements.txt in the terminal
 
 ●	Run train.py
